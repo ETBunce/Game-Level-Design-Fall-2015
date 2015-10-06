@@ -1,0 +1,33 @@
+Hungery City Level Timing
+
+--Checkpoints--
+
+(0) Start
+
+--40 seconds-->
+(1) Homeless shelter
+Retrieve soup ladel to defend against potentially aggrivating hobos. Will obtain the weapon on table in shelter.
+
+--30 seconds-->
+(2) Docks
+Event: 15-60 seconds
+Obtain fish for a snack, found on top of a shipping container. Player will look for fish among containers, which may take 15-60 seconds.
+
+--40 seconds-->
+(3) Beach fire pit
+Cook fish
+
+At this point, player may eat the fish to end the game or proceed to next checkpoint.
+
+--50 seconds-->
+(4) Food tree grounds
+Plant fish to grow food tree.
+
+--End--
+
+
+Notes:
+-Estimated total time: 125-220 seconds (about 2-3 and a half minutes)
+-Some features mentioned not yet implemented
+
+10-6-2015
